@@ -1,22 +1,26 @@
-# Impact des transferts de fonds sur l’inclusion financière (UEMOA)
+# Auto-Emploi des Jeunes - Ouagadougou
+
+**Étude quantitative** sur les déterminants de l'auto-emploi permanent vs temporaire au Grand Marché de Ouagadougou.
 
 ## 🎯 Objectif
-Analyser comment les transferts de fonds influencent l’accès aux services financiers dans les pays de l’UEMOA.
+Identifier les facteurs clés qui influencent la transition d'un auto-emploi de subsistance vers une activité entrepreneuriale durable.
 
-## 📊 Données
-Source : World Development Indicators (2000–2024), 8 pays de l’UEMOA
-
-## 🧪 Méthodologie
-- Statistiques descriptives  
-- Analyse économétrique (données de panel)  
-- Modèle à effets fixes
+## 📊 Méthodologie
+- **Échantillon** : 120 jeunes entrepreneurs
+- **Collecte** : Questionnaire digitalisé (KoboToolbox)
+- **Analyse** : Régression logistique binaire (Stata)
+- **Focus** : Formation, financement, expérience
 
 ## 📈 Résultats clés
-- Les transferts de fonds ont un effet positif sur la possession de comptes bancaires  
-- L’impact est plus fort dans les pays à faible revenu
+- Formation → -40% auto-emploi temporaire
+- Financement → +100% auto-emploi permanent
+- Expérience → stabilité entrepreneuriale
 
-## 🛠 Outils utilisés
-- R pour l’analyse  
-- Excel pour le nettoyage des données  
-- Power BI pour les graphiques
+## 📁 Fichier
+- [`auto-emploi-ouaga.pdf`](auto-emploi-ouaga.pdf) - Mémoire complet
 
+## 🛠 Stack
+Stata • Excel • KoboToolbox
+
+---
+*Étude terrain - Burkina Faso 2024*
