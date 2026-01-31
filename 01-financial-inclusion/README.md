@@ -12,9 +12,11 @@ Source : World Development Indicators (2000–2024), 8 pays de l’UEMOA
 - Modèle à effets fixes
 
 ## 📈 Résultats clés
-[Voir la base de données](docs/Base_données.xlsx)
+[Voir la base de données](docs/Base_données.xlsx)   script_web.py
 
 [Voir le rapport](docs/Fiche_affiche.pdf)
+
+[Voir le rapport](code/script_web.py)
 
 - Les transferts de fonds ont un effet positif sur la possession de comptes bancaires  
 - L’impact est plus fort dans les pays à faible revenu
