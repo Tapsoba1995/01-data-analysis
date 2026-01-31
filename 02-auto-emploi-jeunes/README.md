@@ -8,19 +8,13 @@ Identifier les facteurs clés qui influencent la transition d'un auto-emploi de 
 ## 📊 Méthodologie
 - **Échantillon** : 120 jeunes entrepreneurs
 - **Collecte** : Questionnaire digitalisé (KoboToolbox)
-- **Analyse** : Régression logistique binaire (Stata)
-- **Focus** : Formation, financement, expérience
-
-## 📈 Résultats clés
-- Formation → -40% auto-emploi temporaire
-- Financement → +100% auto-emploi permanent
-- Expérience → stabilité entrepreneuriale
+- **Analyse** : Descriptive: unvariée et bavariée  (Excel)
 
 ## 📁 Fichier
 - [`auto-emploi-ouaga.pdf`](auto-emploi-ouaga.pdf) - Mémoire complet
 
-## 🛠 Stack
-Stata • Excel • KoboToolbox
+## 🛠 logiciels
+ Excel • KoboToolbox
 
 ---
 *Étude terrain - Burkina Faso 2024*
