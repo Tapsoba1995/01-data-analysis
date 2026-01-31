@@ -16,7 +16,7 @@ Source : World Development Indicators (2000–2024), 8 pays de l’UEMOA
 
 [Voir le rapport](docs/Fiche_affiche.pdf)
 
-[Voir le code](code/script_web.py)
+[Voir le code](code/web_scraping.py)
 
 
 - Les transferts de fonds ont un effet positif sur la possession de comptes bancaires  
