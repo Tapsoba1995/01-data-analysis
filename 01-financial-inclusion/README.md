@@ -12,7 +12,7 @@ Source : World Development Indicators (2000–2024), 8 pays de l’UEMOA
 - Modèle à effets fixes
 
 ## 📈 Résultats clés
-[Voir la base de données](docs/Base_données.xlsx)   script_web.py
+[Voir la base de données](docs/Base_données.xlsx)   
 
 [Voir le rapport](docs/Fiche_affiche.pdf)
 
