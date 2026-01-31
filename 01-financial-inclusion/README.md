@@ -8,11 +8,12 @@ Source : World Development Indicators (2000–2024), 8 pays de l’UEMOA
 
 ## 🧪 Méthodologie
 - Statistiques descriptives  
-- Analyse économétrique (données de panel)  
+- Analyse économétrique (données de panel)  Fiche_affiche_Action_de_Grace_2025 (1)
 - Modèle à effets fixes
 
 ## 📈 Résultats clés
 [Voir la base de données](docs/Base_données.xlsx)
+[Voir le rapport](Fiche_affiche_Action_de_Grace_2025 (1).pdf)
 
 - Les transferts de fonds ont un effet positif sur la possession de comptes bancaires  
 - L’impact est plus fort dans les pays à faible revenu
